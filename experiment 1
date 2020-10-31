@@ -101,3 +101,5 @@ ax.spines['bottom'].set_position(('data', 0))   #指定 data  设置的bottom(�
 ax.spines['left'].set_position(('data', 0))
 plt.title("e^(-0.05t)*sin(X)")
 plt.show()
+
+![image](https://github.com/YMH-666/YMH-666.github.io/blob/main/photos/%E5%9B%BE%E7%89%871.png)
