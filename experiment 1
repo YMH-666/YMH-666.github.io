@@ -102,4 +102,4 @@ ax.spines['left'].set_position(('data', 0))
 plt.title("e^(-0.05t)*sin(X)")
 plt.show()
 
-![](https://github.com/YMH-666/YMH-666.github.io/blob/main/photos/experiment1.png)
+![images](https://github.com/YMH-666/YMH-666.github.io/blob/main/photos/experiment1.png)
